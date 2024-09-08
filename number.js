@@ -1,5 +1,6 @@
 let firstFavNum = 5;
 let secondFavNum = 17; 
+
 console.log("My first favorite number is", firstFavNum);
 console.log("My second favorite number is", secondFavNum);
 
