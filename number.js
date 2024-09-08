@@ -4,7 +4,7 @@ console.log("My first favorite number is", firstFavNum);
 console.log("My second favorite number is", secondFavNum);
 
 let sum = firstFavNum + secondFavNum;
-console.log("\n\nAddition:", sum);
+console.log("\nAddition:", sum);
 
 let difference = firstFavNum - secondFavNum;
 console.log("Subtraction:", difference);
